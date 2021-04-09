@@ -1,2 +1,2 @@
-# Ruatam
+# Rustam
 Good Work
